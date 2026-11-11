@@ -1,0 +1,3 @@
+[submodule "PageRank-Crawler"]
+	path = PageRank-Crawler
+	url = https://github.com/14r14/PageRank-Crawler.git
