@@ -24,3 +24,7 @@ A modular, high-performance search engine built in modern C++. The project is or
 - **Web Graph & Topology**: Finalize the streaming edge-ingestion pipeline to map hashed URLs to contiguous 32-bit vertex IDs. Implement an efficient graph representation of the pages.
 - **PageRank Engine**: Implement parallel power-iteration using OpenMP/SIMD vectorization for returning rankings.
 - **Worker Pool & Distributed Infrastructure**: Design an IPC/RPC protocol to coordinate URL frontier partitioning across independent fetcher workers.
+---
+### License
+
+This project is open-source under the [MIT License](https://github.com/14r14/PageRank/blob/main/LICENSE).
